@@ -44,6 +44,7 @@ public class AddNewPlaceStepDefs {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
         //comment is written
+        //another comment from master
     }
 
 }
