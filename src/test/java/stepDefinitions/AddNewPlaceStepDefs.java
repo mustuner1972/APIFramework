@@ -3,11 +3,6 @@ package stepDefinitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.restassured.RestAssured;
-import io.restassured.http.ContentType;
-import io.restassured.response.Response;
-import stepDefinitions.files.payLoad;
-
-import static io.restassured.RestAssured.given;
 
 
 public class AddNewPlaceStepDefs {
@@ -48,6 +43,7 @@ public class AddNewPlaceStepDefs {
     public void api_call_status_code_is(String string) {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
+        //comment is written
     }
 
 }
