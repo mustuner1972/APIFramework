@@ -1,0 +1,7 @@
+stepDefinitions\AddNewPlaceStepDefs.class
+pojo\AddPlace.class
+cucumberOptions\TestRunner.class
+pojo\Location.class
+stepDefinitions\files\payLoad.class
+pojo\Update.class
+stepDefinitions\stepDefns.class
